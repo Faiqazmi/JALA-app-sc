@@ -20,7 +20,7 @@ def run():
     "Ingin melakukan prediksi Survival Rate via apa?",
     ("Online", "CSV"))
 
-    st.sidebar.info('Aplikasi ini digunakan untuk memprediksi Survival Rate budidaya Udang')
+    st.sidebar.info('Aplikasi ini digunakan untuk memprediksi Survival Rate Mitra budidaya Udang')
     
 
     st.title("Survival Rate Prediction App")
